@@ -1,0 +1,15 @@
+.msg-erro{
+    margin: 14px;
+    padding: 14px;
+    text-align: center;
+    display: block;
+}
+
+.msg-erro h1{
+    font-weight: bold;
+}
+
+.msg-erro a{
+    color: #000;
+}
+
